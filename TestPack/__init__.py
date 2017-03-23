@@ -1,0 +1,12 @@
+import test_register
+import test_login
+import test_packaging_buy
+import test_add_gpn
+import test_delete_vm
+import test_delete_public
+import test_delete_private
+import test_delete_gpn
+import test_register
+import test_login
+
+
